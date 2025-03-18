@@ -1,4 +1,9 @@
 <template>
+  <title>Рейтинг чатов услуг Телеграм</title>
+  <head>
+  <meta name="description" content="Лучшие чаты услуг в телеграме и другие рейтинги" />
+  <meta name="keywords" content="чаты услуг, телеграм, гарант телеграм, чаты услуг телегам" />
+</head>
   <main
     class="relative flex flex-col items-center justify-center min-h-screen py-10"
   >
